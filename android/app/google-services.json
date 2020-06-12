@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "285568559729",
+    "firebase_url": "https://one-click-checkout.firebaseio.com",
+    "project_id": "one-click-checkout",
+    "storage_bucket": "one-click-checkout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285568559729:android:2792530fa6b261c46c49d0",
+        "android_client_info": {
+          "package_name": "com.example.oneclickcheckout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285568559729-iu53au4jonv799uods4mc3gfii9to9td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0Ylge2CQ5f57e7DHDQOPBcCfqKLHKPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285568559729-iu53au4jonv799uods4mc3gfii9to9td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285568559729:android:db3519f31d2c926a6c49d0",
+        "android_client_info": {
+          "package_name": "com.example.oneclickcheckoutadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285568559729-iu53au4jonv799uods4mc3gfii9to9td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0Ylge2CQ5f57e7DHDQOPBcCfqKLHKPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285568559729-iu53au4jonv799uods4mc3gfii9to9td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
