@@ -1,16 +1,17 @@
 # oneclickcheckoutadmin
 
-A new Flutter project.
+# Screenshots
 
-## Getting Started
+"Home Screen"
 
-This project is a starting point for a Flutter application.
+![Screenshot_20200711-003757](https://user-images.githubusercontent.com/52591248/87189998-510db500-c30f-11ea-8439-bd899e0f6ba5.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+"Add Products Screen"
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_20200711-003807](https://user-images.githubusercontent.com/52591248/87190335-ead56200-c30f-11ea-9052-c6ac54044ea2.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+"All available products"
+
+![Screenshot_20200711-003824](https://user-images.githubusercontent.com/52591248/87190409-0b052100-c310-11ea-9fb7-bad7486fe504.jpg)
+
+
